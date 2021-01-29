@@ -1,0 +1,8 @@
+# awsCFNmacrostrainig
+aws labs on macros-
+
+https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/services/CloudFormation/MacrosExamples/
+
+aws documentation on macros-
+
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-macros.html
